@@ -1,0 +1,16 @@
+{
+  "products_queue": [
+    {
+      "id": 1,
+      "produto": "Produto 1"
+    },
+    {
+      "id": 2,
+      "produto": "Produto 2"
+    },
+    {
+      "id": 3,
+      "produto": "Produto 3"
+    }
+  ]
+}
